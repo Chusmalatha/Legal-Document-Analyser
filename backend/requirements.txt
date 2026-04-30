@@ -11,6 +11,7 @@ faiss-cpu
 pypdf
 huggingface_hub
 langchain-huggingface
+gunicorn
 
 
 
