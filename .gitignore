@@ -1,0 +1,40 @@
+# 🔹 Python (FastAPI)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# 🔹 Node (React)
+node_modules/
+build/
+dist/
+
+# 🔹 Logs
+*.log
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE files
+.vscode/
+.idea/
+
+# 🔹 Temporary files
+*.tmp
+*.swp
+
+# 🔹 Jupyter (if you use)
+.ipynb_checkpoints/
+
+# 🔹 ML / AI models (optional - if large)
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# 🔹 Dataset files (if large)
+data/
+datasets/

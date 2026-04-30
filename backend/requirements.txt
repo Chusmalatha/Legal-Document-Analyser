@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchian-classic
+langchain-groq
+langchain-core
+python-multipart
+sentence-transformers
+faiss-cpu
+pypdf
+huggingface_hub
+langchain-huggingface
+
+
+
+# from langchain_community.vectorstores import FAISS
+# from langchain_classic.chains import RetrievalQA
+# from langchain_classic.memory import ConversationBufferMemory
+# from langchain_core.prompts import PromptTemplate
